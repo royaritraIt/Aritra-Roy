@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @royaritraIt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development 
-- ❕ Roadmap.sh
-- ❗️ 
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning HTML
+            Roadmap.sh 
+                |
+           [ Internet ]
+                |
+    •HTML •CSS •JavaScript •React
+ 
 
 <!---
 royaritraIt/royaritraIt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
